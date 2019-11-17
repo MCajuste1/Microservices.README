@@ -17,7 +17,7 @@
 - You can deploy individual rather doing it on one go
 
 **Conflicts of Monoliths**
-- Complex understanding and can suffer from performance issues if not taken care you will find t
+- Complex understanding and can suffer from performance issues if not taken care you will find it hard
 - Will need to automate deployment
 
 **Conflicts of Microservices**
